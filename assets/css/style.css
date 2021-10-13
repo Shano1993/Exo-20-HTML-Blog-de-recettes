@@ -1,0 +1,77 @@
+
+body {
+    background-color: darkgray;
+}
+
+#main_title {
+    color: darkgoldenrod;
+    background-color: black;
+    font-family: "Courier New", serif;
+    text-align: center;
+}
+
+#second_title {
+    color: floralwhite;
+    font-family: "Courier New", serif;
+}
+
+li {
+    color: black;
+    font-family: "Courier New", serif;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: 24px;
+    font-family: "Courier New", serif;
+}
+
+h2 {
+    color: darkred;
+    font-family: "Courier New", serif;
+}
+
+h3 {
+    color: ghostwhite;
+    background-color: black;
+    font-family: "Courier New", serif;
+}
+
+#info {
+    color: darkred;
+    font-family: "Courier New", serif;
+    font-size: larger;
+}
+
+.steps {
+    color: floralwhite;
+    font-family: "Courier New", serif;
+    font-size: larger;
+}
+
+p {
+    font-family: "Courier New", serif;
+    color: black;
+}
+
+.times {
+    font-size: larger;
+    font-family: "Arial Black", serif;
+}
+
+.appetite {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid black;
+    padding: 10px;
+}
